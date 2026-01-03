@@ -125,8 +125,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Debashrita Mandal**
 
-- GitHub: [@yourusername](https://github.com/Debashrita2005)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/debashrita-mandal-995279302/)
+- GitHub: [Debashrita2005](https://github.com/Debashrita2005)
+- LinkedIn: [debashrita-mandal](https://www.linkedin.com/in/https://www.linkedin.com/in/debashrita-mandal-995279302/)
 
 ## 🙏 Acknowledgments
 
@@ -136,7 +136,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions or feedback, please reach out to [your.email@example.com](mandaldebashrita@gmail.com)
+For questions or feedback, please reach out to (mandaldebashrita@gmail.com)
 
 ---
 
