@@ -1,9 +1,6 @@
 ### 3. `vercel.json`
 ```json
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "framework": "vite",
   "rewrites": [
     {
       "source": "/(.*)",
@@ -12,3 +9,7 @@
   ]
 }
 ```
+
+**Note:** Vercel will automatically detect Vite and use the correct build settings. If you need to override build settings, do it in the Vercel dashboard under Project Settings → Build & Development Settings.
+
+---
