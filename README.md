@@ -1,13 +1,11 @@
 # Spam-Email-Classifier
 Developed a spam email classifier using NLP techniques with high precision and recall.
 
-# 🛡️ Spam Email Classifier
+# Spam Email Classifier
 
 An AI-powered spam email detection system using Natural Language Processing (NLP) and Machine Learning algorithms.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![React](https://img.shields.io/badge/React-18.2-61dafb)
+
 
 ## ✨ Features
 
@@ -20,11 +18,8 @@ An AI-powered spam email detection system using Natural Language Processing (NLP
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-vercel-deployment.vercel.app)
+[View Live Demo]
 
-## 📸 Screenshots
-
-![Spam Classifier Interface](./screenshots/main.png)
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +29,6 @@ An AI-powered spam email detection system using Natural Language Processing (NLP
 - **Build Tool**: Vite
 - **Deployment**: Vercel
 
-## 📦 Installation
 
 ### Prerequisites
 - Node.js 18+ 
@@ -121,22 +115,18 @@ vercel
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Debashrita Mandal**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [@yourusername](https://github.com/Debashrita2005)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/debashrita-mandal-995279302/)
 
 ## 🙏 Acknowledgments
 
@@ -146,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com)
+For questions or feedback, please reach out to [your.email@example.com](mandaldebashrita@gmail.com)
 
 ---
 
